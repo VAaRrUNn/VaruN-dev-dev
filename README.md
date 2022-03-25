@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaruN-dev-dev
-- 👀 I’m interested in ...programming , web development and stock market
+- 👀 I’m interested in ...programming , machine learning , deep learning , artificial intellegence and stock market
 - 🌱 I’m currently learning ...data structures and algorithms
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...😅
