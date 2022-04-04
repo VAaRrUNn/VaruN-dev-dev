@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaruN-dev-dev
 - 👀 I’m interested in ...programming , machine learning , deep learning , artificial intellegence and stock market
-- 🌱 I’m currently learning ...data structures and algorithms
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ...machine learning
+- 💞️ I’m looking to collaborate on ... some ML projects
 - 📫 How to reach me ...😅
 
 <!---
